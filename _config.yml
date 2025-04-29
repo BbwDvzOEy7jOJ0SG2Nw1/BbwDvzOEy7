@@ -2,7 +2,7 @@
 # Site
 
 title: Юзерс Бокс / UsersBox
-url: "https://usersbox.top"
+url: "https://userbox.link"
 locale: ru
 baseurl: "/"
 # google_analytics_key:
@@ -11,7 +11,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (usersbox.tech)
 logo: /siteicon.png
-description: Юзербокс - телеграм бот для поиска информации по номеру телефона. Этот бот для пробива в тг — лучший среди своих конкурентов в Telegram. Найдет любые и все данные которые попали в сеть.
+description: Юзербокс — актуальный бот в Telegram, который знает о номерах всё. Просто введи телефон — и он покажет всё, что всплыло в интернете. Лучший среди инструментов пробива в ТГ.
 author:
   name:
   email:
@@ -19,7 +19,7 @@ author:
 social:
   name: UsersBox Template
   links:
-    - usersbox.top
+    - userbox.link
 
 # -----
 # Build
