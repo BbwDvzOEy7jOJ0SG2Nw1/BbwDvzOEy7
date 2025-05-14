@@ -68,14 +68,6 @@ defaults:
 jekyll-archives:
   enabled:
     - categories
-
-plugins:
-  - jekyll-archives
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate
-
 exclude:
   - Gemfile
   - Gemfile.lock
